@@ -1,0 +1,25 @@
+<?xml version="1.0"?> 
+<channel>
+<title>Lemon Times</title>
+<description>Your source for independent tech news!</description>
+<link>https://lemonsqueezers.github.io/LMSQ/</link>
+<language>en-ca</language>
+<copyright>Copyright 2022, Lemon Media</copyright>
+<pubDate>Fri, 17 Jun 2022 01:40:00 IST</pubDate>
+<lastBuildDate>Thu, 17 Jun 2022, 1:40:00 IST </lastBuildDate>
+<category>Newspapers</category>
+<cloud>
+   domain="rpc.sys.com" port="80" path="/RPC2" registerProcedure="myCloud.rssPleaseNotify" protocol="xml-rpc"
+</cloud>
+<ttl>60</ttl>
+<managingEditor>buttertheidiot@gmail.com</managingEditor>
+<webMaster>buttertheidiot@gmail.com</webMaster>
+<skipHours>
+<hour>4</hour>
+</skipHours>
+<item>
+<title>Hello!</title>
+<description>Our first article!.</description>
+<author>buttertheidiot@gmail.com</author>
+<pubDate>Sun, 17 June 2022 08:05:00 GMT</pubDate>
+<source url="http://example.com">Example.com </source>
